@@ -449,13 +449,13 @@ button:focus {
 .banner_area1 {
   position: relative;
   z-index: 1;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area1 .banner_inner {
   position: relative;
   background: url(../img/banner/home-banner2.jpg) no-repeat scroll center center;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area1 .banner_inner .banner_content {
@@ -476,13 +476,13 @@ button:focus {
 .banner_area2 {
   position: relative;
   z-index: 1;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area2 .banner_inner {
   position: relative;
   background: url(../img/banner/home-banner2.jpg) no-repeat scroll center center;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area2 .banner_inner .banner_content {
@@ -503,13 +503,13 @@ button:focus {
 .banner_area3 {
   position: relative;
   z-index: 1;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area3 .banner_inner {
   position: relative;
   background: url(../img/banner/home-banner2.jpg) no-repeat scroll center center;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .banner_area3 .banner_inner .banner_content {
