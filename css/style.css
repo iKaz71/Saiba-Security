@@ -387,6 +387,7 @@ button:focus {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
+/*INICIO*/
 .home_banner_area {
   position: relative;
   z-index: 1;
@@ -403,19 +404,6 @@ button:focus {
   color: #fff;
   max-width: 480px;
   margin: auto;
-}
-
-.home_banner_area .banner_inner .banner_content .date {
-  margin-bottom: 25px;
-}
-
-.home_banner_area .banner_inner .banner_content .date a {
-  margin-right: 25px;
-  color: #fff;
-}
-
-.home_banner_area .banner_inner .banner_content .date a i {
-  padding-right: 10px;
 }
 
 .home_banner_area .banner_inner .banner_content p {
@@ -446,6 +434,87 @@ button:focus {
 
 .home_banner_area .carousel .carousel-indicators li.active {
   background: #9602a1;
+}
+
+/*CAMPAÑA*/
+.banner_area1 {
+  position: relative;
+  z-index: 1;
+  min-height: 600px;
+}
+
+.banner_area1 .banner_inner {
+  position: relative;
+  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  min-height: 600px;
+}
+
+.banner_area1 .banner_inner .banner_content {
+  color: #fff;
+  max-width: 480px;
+  margin: auto;
+}
+
+.banner_area1 .banner_inner .banner_content h3 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 25px;
+}
+
+ /*QUIENES SOMOS*/
+.banner_area2 {
+  position: relative;
+  z-index: 1;
+  min-height: 600px;
+}
+
+.banner_area2 .banner_inner {
+  position: relative;
+  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  min-height: 600px;
+}
+
+.banner_area2 .banner_inner .banner_content {
+  color: #fff;
+  max-width: 480px;
+  margin: auto;
+}
+
+.banner_area2 .banner_inner .banner_content h3 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 25px;
+}
+
+/*CONTACTANOS*/
+.banner_area3 {
+  position: relative;
+  z-index: 1;
+  min-height: 600px;
+}
+
+.banner_area3 .banner_inner {
+  position: relative;
+  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  min-height: 600px;
+}
+
+.banner_area3 .banner_inner .banner_content {
+  color: #fff;
+  max-width: 480px;
+  margin: auto;
+}
+
+.banner_area3 .banner_inner .banner_content h3 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 25px;
 }
 /* End Home Banner Area css
 ============================================================================================ */
